@@ -1,13 +1,15 @@
-# C-
-EJERCICIO C# DE DECISIONES HISTORIA SIN FIN
+//# C-
+//EJERCICIO C# DE DECISIONES HISTORIA SIN FIN
 
 
 using System;
 
 public class Program
 {
-    // FUNCIÓN
-    static int ManejarLinea(string texto, int numeroSalto1, int numeroSalto2, int numeroSalto3)
+
+// FUNCIÓN
+
+static int ManejarLinea(string texto, int numeroSalto1, int numeroSalto2, int numeroSalto3)
     {
         Console.WriteLine(texto);
 
